@@ -1,0 +1,15 @@
+CODEALPHA BASIC CHATBOT
+Bot: Hello! I'm CodeAlpha Bot.
+Bot: Type 'help' to see what I can respond to.
+Bot: Type 'bye' whenever you want to end the chat.
+------------------------------------------------
+You: hello
+Bot: Hi! Nice to meet you. How can I help you?
+You: how are you
+Bot: I'm fine, thanks for asking! How are you?
+You: what is your name
+Bot: I'm CodeAlpha Bot, a simple Python chatbot.
+You: blah
+Bot: Sorry, I don't understand that yet. Please try another message.
+You: bye
+Bot: Goodbye! Have a great day!
